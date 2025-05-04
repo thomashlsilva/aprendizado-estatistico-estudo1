@@ -1,8 +1,8 @@
-# Estudo Dirigido 1 – Aprendizado Estatístico (CEFET-MG)
+## Estudo Dirigido 1 – Aprendizado Estatístico (CEFET-MG)
 
 Este repositório contém um notebook em R (`AE_estudodirigido1.ipynb`) que implementa e explora conceitos estatísticos fundamentais por meio de simulações, conforme proposto no Estudo Dirigido 1 da disciplina de **Aprendizado Estatístico** do CEFET-MG.
 
-## 📘 Conteúdo
+### 📘 Conteúdo
 
 O notebook cobre os seguintes tópicos:
 
@@ -38,7 +38,7 @@ O notebook cobre os seguintes tópicos:
    * Comparações 2 a 2 entre três populações com mesma média.
    * Estimativa empírica do erro tipo I em testes múltiplos.
 
-## 🛠️ Requisitos
+### 🛠️ Requisitos
 
 Para executar o notebook corretamente, é necessário:
 
@@ -54,7 +54,7 @@ IRkernel::installspec()
 
 Ou rodar o código diretamente em um script `.R` ou em RStudio.
 
-## 💡 Como rodar
+### 💡 Como rodar
 
 1. Clone este repositório.
 
@@ -62,10 +62,10 @@ Ou rodar o código diretamente em um script `.R` ou em RStudio.
 
 3. Execute as células sequencialmente.
 
-## 📊 Resultados
+### 📊 Resultados
 
 O notebook permite visualizar graficamente conceitos estatísticos por meio de histogramas, densidades, e boxplots. Ele também mostra, por meio de simulações, a importância de considerar o tamanho amostral e os riscos de testes múltiplos.
 
-## 📎 Fonte
+### 📎 Fonte
 
 Este estudo está baseado no material didático do CEFET-MG para a disciplina de Aprendizado Estatístico ministrada pelo professor Fabio Rocha da Silva.
